@@ -1,0 +1,68 @@
+* {
+    margin: 0px;
+  }
+  .full-container {
+    background: #f5f5fb;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .login {
+    color: #000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 800;
+    margin-top: 10rem;
+  }
+  .input-email {
+    background: #fff;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .input-email-name {
+    font-size: 24px;
+    font-family: Inter;
+    outline: none;
+    border: #fff;
+  }
+  .input-password-name {
+    font-size: 24px;
+    font-family: Inter;
+    outline: none;
+    border: #fff;
+  }
+  
+  .input-password {
+    border-radius: 100px;
+    background: #fff;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .create-new-account {
+    color: #000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 600;
+    margin-top: 2rem;
+  }
+  .register-button {
+    color: #3c9787;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 600;
+    margin: 2rem;
+  }
+  
+  .subbuttn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7rem;
+    margin-top: 2rem;
+  }
